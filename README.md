@@ -20,4 +20,5 @@ react native로 만든 todolist
 
 ### 추가 구현할 부분
 - enter 누르면 추가하는 기능
-- checkbox 누르고(done 기능) 천천히 사라지는 기능  
+- checkbox 누르고(done 기능) 천천히 사라지는 기능
+- reset,theme 추가하기
