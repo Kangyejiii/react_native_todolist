@@ -49,6 +49,7 @@ const Header = styled.View`
 
 const ListWrapper = styled.View`
   flex: 1;
+  margin: 0 16px;
 `;
 
 const MainText = styled.Text`

@@ -40,6 +40,8 @@ const Container = styled.View`
   width: 100%;
   height: 60px;
   padding: 6px 11px 6px 9px;
+  border-bottom-width: 1px;
+  border-bottom-color: #f7f7f7;
 `;
 
 const CheckBox = styled.TouchableOpacity`
@@ -47,7 +49,7 @@ const CheckBox = styled.TouchableOpacity`
   justify-content: center;
   width: 22px;
   height: 22px;
-  margin: 0 10px;
+  margin-right: 10px;
   border: 0.5px #bdbdbd;
   border-radius: 50px;
 `;
