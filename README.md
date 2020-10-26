@@ -11,15 +11,10 @@ react native로 만든 todolist
 - Hook
 
 
-### 아직 해결 못한 부분
-- ios / 키보드활성화 할 때 - 아래있는 input창이 키보드에 가려지는 현상 (input이 아래에 있고 키보드가 위에 있어서 보이지 않는다) -> 키보드높이에 따라서 padding 값 지정 (진행할예정)
-- ios / statusbar와 레이아웃이 겹치는 현상  => `safeAreaView` 로 설정은 해 놓고 아직 확인은 못했음
-
--이부분은 android 에서는 문제 없음 (노트 9 ) /  수정할 예정 
+## 구현 화면
+### ADD
+![ADD](https://user-images.githubusercontent.com/48308763/97203310-f9308680-17f7-11eb-8c0b-e739f5866eab.gif)
 
 
-### 추가 구현할 부분
-- enter 누르면 추가하는 기능
-- checkbox 누르고(done 기능) 천천히 사라지는 기능
-- reset,theme 추가하기
-- 등록한 할일 수정 기능 
+### DONE , REMOVE
+![DONE](https://user-images.githubusercontent.com/48308763/97202975-a35bde80-17f7-11eb-8be7-0a94695d0d13.gif)
